@@ -5,7 +5,6 @@ import time
 import pandas as pd
 from PIL import Image
 import av
-from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
 
